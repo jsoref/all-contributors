@@ -1,0 +1,15 @@
+ignore$
+\.gitattributes$
+\.ico$
+\.jar$
+\.lock$
+\.png$
+\.svg$
+^CODE_OF_CONDUCT\.md$
+^CONTRIBUTING\.md$
+^LICENSE
+^package\.json$
+^website/languages\.js$
+^\.all-contributorsrc$
+^\.circleci/config\.yml$
+^\.github/
